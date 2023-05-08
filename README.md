@@ -10,6 +10,7 @@ Instructor: Ebrahim Tarshizi, Ph.D., M.B.A.
 Saint Louis University
 
 Abstract
+
 Monitoring the quality of the water is necessary to safeguard both the environment and human health. We
 propose the creation of the Waterbot Smart water monitoring system in this project, which makes use of
 IoT technology to continuously check water quality. Data on many aspects of water quality, including CL,
@@ -21,5 +22,6 @@ using Wi-Fi and cellular networks. The proposed technology will be useful in sev
 aquaculture, agriculture, and water treatment facilities. The Waterbot Smart water monitoring system will
 continuously monitor the quality of the water and enable early identification of any anomalies, allowing
 for improved water management decisions and environmental and human health protection.
+
 Keywords: Water quality monitoring, IoT, sensors, real-time, preprocessing, machine learning,
 edge device, water treatment, anomaly detection.
