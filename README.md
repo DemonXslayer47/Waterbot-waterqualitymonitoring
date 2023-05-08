@@ -1,9 +1,9 @@
 # Waterbot-waterqualitymonitoring
 Waterbot - Water Quality Monitor
-Sreehari Thota, Naga Prasad Kondaboina, Vineetha Muktineni
-Course: AAI-530- Data Analytics and the Internet of Things
-Instructor: Ebrahim Tarshizi, Ph.D., M.B.A.
-Saint Louis University
+//Sreehari Thota, Naga Prasad Kondaboina, Vineetha Muktineni
+//Course: AAI-530- Data Analytics and the Internet of Things
+//Instructor: Ebrahim Tarshizi, Ph.D., M.B.A.
+//Saint Louis University
 
 Abstract
 Monitoring the quality of the water is necessary to safeguard both the environment and human health. We
